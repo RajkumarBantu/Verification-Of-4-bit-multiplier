@@ -1,1 +1,2 @@
-# Verification-Of-4-bit-multiplier
+# 
+Verification of Combinational circuit 4-bit-multiplier
